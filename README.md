@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George
-- 🧑‍💻 I am an ECE student, currently finishing my studies and writing my theses
+- 🧑‍💻 I am an ECE student, currently finishing my studies with my theses project
 - 👀 I’m interested in machine learning, android application development and data analysis
 - 📫 How to contact me:
   - 📧gtsak1999@hotmail.com
