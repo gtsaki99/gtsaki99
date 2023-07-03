@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George
 - 🧑‍💻 I am an ECE student, currently finishing my studies with my theses project
-- 👀 I’m interested in machine learning, android application development and data analysis
+- 👀 I’m interested in android application development and machine learning
 - 📫 How to contact me:
   - 📧gtsak1999@hotmail.com
   - ![li](https://user-images.githubusercontent.com/53182983/201493892-983e0df9-4256-4160-a53a-e3ffdbcb70cd.png) [Profile](https://www.linkedin.com/in/georgios-tsakiridis-88028417a/)
